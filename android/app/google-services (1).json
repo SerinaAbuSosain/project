@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332586723224",
+    "firebase_url": "https://imag-c49a0.firebaseio.com",
+    "project_id": "imag-c49a0",
+    "storage_bucket": "imag-c49a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332586723224:android:da54d503d405b6455b2ded",
+        "android_client_info": {
+          "package_name": "com.example.imag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332586723224-f4apojermf3a626lbn981m80sbsij7v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ip0yCfeY3UxJNeOQqGVTdDz45KXQjug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332586723224-f4apojermf3a626lbn981m80sbsij7v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
